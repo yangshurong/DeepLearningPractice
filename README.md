@@ -1,1 +1,1 @@
-# DeepLearningPractice
+# 学习深度学习时的一些小练习，现在正在不断更新
